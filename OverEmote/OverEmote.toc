@@ -1,0 +1,14 @@
+## Interface: 70200
+## Title: OverEmote
+## Notes: Overwatch emote wheel.
+## Author: Songzee (IRL: Cuc Flavius)
+## DefaultState: enabled
+## LoadOnDemand: 0
+## SavedVariables: OverEmoteSettings
+## X-eMail: cucflavius@gmail.com
+## X-Website: none
+## X-License: GPL
+## Version: 1.1
+
+OverEmote.lua
+OverEmote_UI.lua
